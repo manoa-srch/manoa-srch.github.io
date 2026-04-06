@@ -60,11 +60,9 @@ To support the development of the platform, the application will use several key
 
 *Home Page:* A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
 
-![](img/homepage-mu.png)
-
 *Login/Register:* An authentication system allowing instructors and editors to access their data and contributions.
 
-![](img/login-mu.png)
+![](img/homepage-mu.png)
 
 *User Profile Page:* Displays user information, courses created and contributed content.
 
