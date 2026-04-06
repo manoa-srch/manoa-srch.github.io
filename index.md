@@ -83,7 +83,8 @@ To support the development of the platform, the application will use several key
 
 • Selecting content for potential inclusion
 
-![](img/friends-mu.png)
+![](img/crud-mu.png)
+![](img/crud-2-mu.png)
 
 ## Community Feedback
 
