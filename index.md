@@ -2,6 +2,7 @@
 <a href="https://docs.google.com/document/d/18CNi7wyIuc5msmWvYp0cfrgZYB2pT_O6dbEzotG73iE/edit?tab=t.0">
   Team Contract Document
 </a>
+
 ## Table of contents
 
 * [Overview](#overview)
