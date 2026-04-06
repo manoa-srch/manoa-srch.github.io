@@ -13,8 +13,10 @@
 
 The core objectives of this project are to create a peer-to-peer vehicle swap platform that allows Hawai'i residents to:
 
-  1.Swap cars between islands upon traveling
+  1. Swap cars between islands upon traveling
+     
   2. Borrow/trade vehicles for specific needs
+     
   3. Avoid expensive rentals/limited availability
 
 **Think:** *Airbnb, but for exchanging cars in a two way interaction instead of renting from one other person or family.*
@@ -41,23 +43,23 @@ Some Possible Mockup Pages Include:
 
 *Home Page:* Featuring a map of Hawaii with available vehicles for swap
 
-<!-- Insert home page mockup pic -->
+![](img/homepage-mu.png)
 
 *Login/Register:*
 
-<!-- Insert Login/Register mockup pic -->
+![](img/login-mu.png)
 
 *User Profile Page:* Displaying user information, vehicle details, and swap history
 
-<!-- Insert Profile mockup pic -->
+![](img/profile-mu.png)
 
 *Friends Page:* Allowing users to connect and manage their friends and followers
 
-<!-- Insert friends mockup pic -->
+![](img/friends-mu.png)
 
 *Reviews Page:* Allowing users to leave and manage reviews for each other
 
-<!-- Insert review mockup pic -->
+![](img/reviews-mu.png)
 
 ## Community Feedback
 
