@@ -1,10 +1,10 @@
-title: Manoa IslandRide Exhange
+title: Manoa SRCH Builder
 description: Profiles, Projects, and Interests for the UH Community
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/manoa-islandride-exchange/manoa-islandride-exchange.io
+  repository_url: https://github.com/manoa-srch/manoa-srch.github.io
 gems:
   - jekyll-mentions
