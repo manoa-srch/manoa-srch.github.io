@@ -158,4 +158,4 @@ BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](ht
 
   
 ## M1 Project 
-![][img/m1.png]
+![](img/m1.png)
