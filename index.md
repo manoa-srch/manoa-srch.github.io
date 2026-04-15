@@ -54,7 +54,7 @@ SRCH Curriculum Builder has two user roles: instructors and administrators. Inst
 
 <!-- Expand the section above -->
 
-### Mockups for intended implementations
+### Mockup Implementations
 
 To support the development of the platform, the application will use several key pages:
 
@@ -148,6 +148,9 @@ This project addresses a real challenge in modern computing education: aligning 
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](https://jmexias.github.io/), [Ahnasia Goulbourne](https://ahnasiakg2234.github.io/), and [Zackary Lown](https://zacklown.github.io/).
+
+## Deployment
+[Manoa SRCH](https://srch-application-project-eight.vercel.app/).
 
 ## In-Progress Implementations to come:
 * [Deployment](#deployment)
