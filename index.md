@@ -66,6 +66,8 @@ To support the development of the platform, the application will use several key
 
 ![](img/updatedSignin.png)
 
+![](img/login.png)
+
 *User Profile Page:* Displays user information, courses created and contributed content.
 
 ![](img/profile-mu.png)
