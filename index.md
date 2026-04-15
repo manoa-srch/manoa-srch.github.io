@@ -151,11 +151,17 @@ This project addresses a real challenge in modern computing education: aligning 
 
 BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](https://jmexias.github.io/), [Ahnasia Goulbourne](https://ahnasiakg2234.github.io/), and [Zackary Lown](https://zacklown.github.io/).
 
+## M1 Project Page Completions
+[M1](https://github.com/orgs/manoa-srch/projects/1/views/2)
+
+## M2 Project Page
+[M2](https://github.com/orgs/manoa-srch/projects/6)
+
 ## Deployment
-[Manoa SRCH](https://srch-application-project-eight.vercel.app/).
+[Manoa SRCH](https://srch-application-project-eight.vercel.app/)
 
 ## In-Progress Implementations to come:
-* [Deployment](#deployment)
+* [Deployment](#deployment) 
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
