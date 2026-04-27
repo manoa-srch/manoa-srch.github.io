@@ -154,6 +154,7 @@ BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](ht
 ## Development History
 * [M1](https://github.com/orgs/manoa-srch/projects/1/views/2)
 * [M2](https://github.com/orgs/manoa-srch/projects/6)
+* [M3](https://github.com/orgs/manoa-srch/projects/7)
 * [Manoa SRCH](https://srch-application-project-eight.vercel.app/)
 
 ## In-Progress Implementations to come:
