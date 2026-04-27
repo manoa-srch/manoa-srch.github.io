@@ -12,6 +12,7 @@
 * [Example enhancements](#example-enhancements)
 * [Conclusion](#conclusion)
 * [Team](#team)
+* [Deployment](#deployment)
 
 ## Aligning Objectives With Safety: SRCH Navigator Proposal
 
@@ -151,20 +152,14 @@ This project addresses a real challenge in modern computing education: aligning 
 
 BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](https://jmexias.github.io/), [Ahnasia Goulbourne](https://ahnasiakg2234.github.io/), and [Zackary Lown](https://zacklown.github.io/).
 
-## M1 Project Page Completions
+## Development History
 [M1](https://github.com/orgs/manoa-srch/projects/1/views/2)
-
-## M2 Project Page
 [M2](https://github.com/orgs/manoa-srch/projects/6)
-
-## Deployment
 [Manoa SRCH](https://srch-application-project-eight.vercel.app/)
 
 ## In-Progress Implementations to come:
-* [Deployment](#deployment) 
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
-* [Development History](#development-history)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
