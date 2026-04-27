@@ -1,7 +1,4 @@
 # Manoa SRCH Curriculum Builder
-<a href="https://docs.google.com/document/d/18CNi7wyIuc5msmWvYp0cfrgZYB2pT_O6dbEzotG73iE/edit?tab=t.0">
-  Team Contract Document
-</a>
 
 ## Table of contents
 
@@ -55,7 +52,7 @@ SRCH Curriculum Builder has two user roles: instructors and administrators. Inst
 
 <!-- Expand the section above -->
 
-### Implementations
+### User Guide
 
 To support the development of the platform, the application will use several key pages:
 
@@ -88,6 +85,7 @@ To support the development of the platform, the application will use several key
 *SRCH Unmapped Objectives:* Allows instructors to: Create Objectives without mappings, view, like, comment and vote on unmapped objectives within a forum
 
 ![](img/unmapped.png)
+
 
 ## Community Feedback
 
@@ -149,14 +147,16 @@ This project addresses a real challenge in modern computing education: aligning 
 
 BowFolios is designed, implemented, and maintained by [Jaimes Mexia-Santiago](https://jmexias.github.io/), [Ahnasia Goulbourne](https://ahnasiakg2234.github.io/), and [Zackary Lown](https://zacklown.github.io/).
 
+<a href="https://docs.google.com/document/d/18CNi7wyIuc5msmWvYp0cfrgZYB2pT_O6dbEzotG73iE/edit?tab=t.0">
+  Team Contract Document
+</a>
+
 ## Development History
 * [M1](https://github.com/orgs/manoa-srch/projects/1/views/2)
 * [M2](https://github.com/orgs/manoa-srch/projects/6)
 * [Manoa SRCH](https://srch-application-project-eight.vercel.app/)
 
 ## In-Progress Implementations to come:
-* [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Example enhancements](#example-enhancements)
-* [Team](#team)
