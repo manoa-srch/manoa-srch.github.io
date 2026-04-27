@@ -55,13 +55,13 @@ SRCH Curriculum Builder has two user roles: instructors and administrators. Inst
 
 <!-- Expand the section above -->
 
-### Mockup Implementations
+### Implementations
 
 To support the development of the platform, the application will use several key pages:
 
 *Home Page:* A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
 
-![](img/updatedLanding.png)
+![](img/home.png)
 
 *Login/Register:* An authentication system allowing instructors and editors to access their data and contributions.
 
@@ -80,6 +80,7 @@ To support the development of the platform, the application will use several key
 • Provide descriptions and metadata 
 
 • Manage course-specific learning objectives
+![](img/AdminFunc.png)
 
 *SRCH Content Browser:* Allows instructors to:
 
@@ -89,8 +90,24 @@ To support the development of the platform, the application will use several key
 
 • Selecting content for potential inclusion
 
-![](img/crud-mu.png)
-![](img/crud-2-mu.png)
+![](img/srchBrowser.png)
+
+*SRCH Curriculum Gallery:* Allows instructors to:
+
+• Viewing existing curriculums
+
+• Add their own curriculum path 
+
+![](img/unmapped.png)
+
+*SRCH Unmapped Objectives:* Allows instructors to:
+
+• Create Objectives without Mappings
+
+• View unmapped objectives within a forum
+
+• Like, comment, and vote on unmapped objectives
+
 
 ## Community Feedback
 
