@@ -73,41 +73,21 @@ To support the development of the platform, the application will use several key
 
 ![](img/profile-mu.png)
 
-*Course Management (CRUD):* Allows instructors to:
+*Course Management (CRUD):* Allows Admin to (CRUD) users and courses, manage course-specific learning objectives
 
-• Create, edit, and delete courses 
-
-• Provide descriptions and metadata 
-
-• Manage course-specific learning objectives
 ![](img/AdminFunc.png)
 
-*SRCH Content Browser:* Allows instructors to:
-
-• Viewing SRCH topics
-
-• Filtering by topic, difficulty, or relevance
-
-• Selecting content for potential inclusion
+*SRCH Content Browser:* Allows instructors to: view, filter and select existing SRCH topics
 
 ![](img/srchBrowser.png)
 
-*SRCH Curriculum Gallery:* Allows instructors to:
+*SRCH Curriculum Gallery:* Allows instructors to: View existing curriculums and add their own curriculum path 
 
-• Viewing existing curriculums
+![](img/curriculum.png)
 
-• Add their own curriculum path 
+*SRCH Unmapped Objectives:* Allows instructors to: Create Objectives without mappings, view, like, comment and vote on unmapped objectives within a forum
 
 ![](img/unmapped.png)
-
-*SRCH Unmapped Objectives:* Allows instructors to:
-
-• Create Objectives without Mappings
-
-• View unmapped objectives within a forum
-
-• Like, comment, and vote on unmapped objectives
-
 
 ## Community Feedback
 
