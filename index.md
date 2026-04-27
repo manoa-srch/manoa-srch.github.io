@@ -68,7 +68,7 @@ To support the development of the platform, the application will use several key
 
 *User Profile Page:* Displays user information, courses created and contributed content.
 
-![](img/profile-mu.png)
+![](img/profile.png)
 
 *Course Management (CRUD):* Allows Admin to (CRUD) users and courses, manage course-specific learning objectives
 
