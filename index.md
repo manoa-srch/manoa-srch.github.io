@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [Approach](#approach)
+* [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
 * [Use Cases](#use-cases)
 * [Example enhancements](#example-enhancements)
@@ -86,6 +87,202 @@ To support the development of the platform, the application will use several key
 
 ![](img/unmapped.png)
 
+## Developer Guide
+
+This guide walks developers through downloading, installing, running, and modifying the SRCH Curriculum Builder system.
+
+---
+
+### 1. Clone the Repository
+
+Clone the project locally:
+
+```bash
+git clone https://github.com/manoa-srch/srch-application-project.git
+cd srch-application-project
+```
+
+---
+
+### 2. Install Dependencies
+
+Make sure you have Node.js (v18+) installed.
+
+Then install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+### 3. Environment Setup
+
+Create a `.env` file in the root directory with the following:
+
+```env
+DATABASE_URL="your_postgres_connection_string"
+NEXTAUTH_SECRET="your_secret_key"
+NEXTAUTH_URL="http://localhost:3000"
+```
+
+If using Vercel/Neon Postgres:
+
+```env
+POSTGRES_PRISMA_URL="..."
+POSTGRES_URL_NON_POOLING="..."
+```
+
+---
+
+### 4. Database Setup (Prisma)
+
+Run migrations and generate Prisma client:
+
+```bash
+npx prisma migrate dev
+npx prisma generate
+```
+
+Seed the database:
+
+```bash
+npx tsx prisma/seed.ts
+```
+
+Default test account:
+
+```
+Email: john@foo.com
+Password: changeme123
+```
+
+---
+
+### 5. Run the Application
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```
+http://localhost:3000
+```
+
+---
+
+### 6. Run Playwright Tests
+
+Run end-to-end tests:
+
+```bash
+npx playwright test
+```
+
+Run with UI:
+
+```bash
+npx playwright test --ui
+```
+
+---
+
+### 7. Project Structure Overview
+
+```
+src/
+├── app/
+│   ├── courses/
+│   ├── srch/
+│   ├── curriculum/
+│   ├── profile/
+│   └── auth/
+├── components/
+├── lib/
+│   ├── prisma.ts
+│   └── auth.ts
+prisma/
+├── schema.prisma
+└── seed.ts
+tests/
+```
+
+---
+
+### 8. Modifying the System
+
+#### Adding a New Page
+Create a new route:
+
+```
+src/app/<route>/page.tsx
+```
+
+#### Modifying Forms
+
+Forms are reusable components:
+- CourseForm.tsx
+- ObjectiveForm.tsx
+
+To modify:
+1. Update form component
+2. Update Prisma schema if needed
+3. Update corresponding server action
+
+#### Updating Database Models
+
+Edit:
+
+```
+prisma/schema.prisma
+```
+
+Then run:
+
+```bash
+npx prisma migrate dev
+npx prisma generate
+```
+
+#### Authentication
+
+Authentication is handled in:
+
+```
+src/lib/auth.ts
+```
+
+Uses NextAuth with credentials provider.
+
+---
+
+### 9. Deployment (Vercel)
+
+Install CLI:
+
+```bash
+npm i -g vercel
+```
+
+Link project:
+
+```bash
+vercel link
+```
+
+Deploy:
+
+```bash
+vercel
+```
+
+Ensure environment variables are set in Vercel dashboard.
+
+---
 
 ## Community Feedback
 
