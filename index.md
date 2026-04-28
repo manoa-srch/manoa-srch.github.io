@@ -147,7 +147,7 @@ npx prisma generate
 Seed the database:
 
 ```bash
-npx tsx prisma/seed.ts
+npx prisma db seed
 ```
 
 Default test account:
@@ -182,12 +182,7 @@ Run end-to-end tests:
 ```bash
 npx playwright test
 ```
-
-Run with UI:
-
-```bash
-npx playwright test --ui
-```
+Available tests are located in the tests folder.
 
 ---
 
@@ -257,30 +252,6 @@ src/lib/auth.ts
 ```
 
 Uses NextAuth with credentials provider.
-
----
-
-### 9. Deployment (Vercel)
-
-Install CLI:
-
-```bash
-npm i -g vercel
-```
-
-Link project:
-
-```bash
-vercel link
-```
-
-Deploy:
-
-```bash
-vercel
-```
-
-Ensure environment variables are set in Vercel dashboard.
 
 ---
 
