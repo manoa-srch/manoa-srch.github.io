@@ -257,7 +257,15 @@ Uses NextAuth with credentials provider.
 
 ## Community Feedback
 
-We are interested in your experience using SRCH Curriculum Builder!  If you would like, please take a couple of minutes to fill out the [SRCH Curriculum Builder Feedback Form](#). <!-- need to build form later -->
+We are interested in your experience using SRCH Curriculum Builder!  If you would like, please take a couple of minutes to fill out the [SRCH Curriculum Builder Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSeUXCQXtvZ7O9Dl3UoVVyDNvn-ktXEoThKymINiakDUoPgNUg/viewform?usp=publish-editor). 
+
+Feedback results (as of 04 May 2026): Based on initial feedback from users, while it was hard to grasp the immediate usability of the application (as it was designed specifically for instructors within the UH Manoa System), overall impressions were positive. Users had understood that creating a course allowed them to tie objectives to SRCH Content, so that those objectives were viewable by other users of the application. Usability feedback has already been implemented to allow for better end user experience. Some of these added features include:
+
+• Map more than one SRCH Content to an objective at a time
+
+• View SRCH content when writing the tie in to the course
+
+• Use another course as a template for their own
 
 ## Use Cases
 
