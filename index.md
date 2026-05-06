@@ -1,5 +1,5 @@
 # Manoa SRCH Curriculum Builder
-![ci-badge](https://github.com/manoa-srch/srch-application-project/workflows/ci-srch-application-project/badge.svg)
+![ci-badge](https://github.com/manoa-srch/srch-application-project/workflows/manoa-srch/badge.svg)
 
 ## Table of contents
 
