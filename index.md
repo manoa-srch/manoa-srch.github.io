@@ -58,34 +58,45 @@ SRCH Curriculum Builder has two user roles: instructors and administrators. Inst
 To support the development of the platform, the application will use several key pages:
 
 *Home Page:* A landing page introducing the platform and its purpose, along with quick access to login or course dashboards.
+![](img/allUsersHome.png)
 
-![](img/home.png)
+*Key Features:* A vital part of the home page outlining the key features for usage.
+![](img/keyFeaturesHome.png)
 
-*Login/Register:* An authentication system allowing instructors and editors to access their data and contributions.
+*Sign In:* An authentication system allowing instructors and editors to access their data and contributions.
+![](img/signInPage.png)
 
-![](img/updatedSignin.png)
+*Create Account:* Allows users to create an account before being able to meaningfully contribute to the SRCH curriculum.
+![](img/createAccount.png)
 
-![](img/login.png)
+*My Courses:* Once authenticated, users can access and create their own courses. Will also display objectives once added.
+![](img/userCourses.png)
 
-*User Profile Page:* Displays user information, courses created and contributed content.
-
-![](img/profile.png)
-
-*Course Management (CRUD):* Allows Admin to (CRUD) users and courses, manage course-specific learning objectives
-
-![](img/AdminFunc.png)
-
-*SRCH Content Browser:* Allows instructors to: view, filter and select existing SRCH topics
-
-![](img/srchBrowser.png)
+*SRCH Library:* Allows users to access already exisiting SRCH content with viewing, filtering and selecting permissions
+![](img/srchLibrary.png)
 
 *SRCH Curriculum Gallery:* Allows instructors to: View existing curriculums and add their own curriculum path 
+![](img/userCurriculum.png)
 
-![](img/curriculum.png)
+*Unmapped Objectives Forum:* Allows users to view, vote, and comment on objectives that have not been mapped to content yet
+![](img/userObjectives.png)
 
-*SRCH Unmapped Objectives:* Allows instructors to: Create Objectives without mappings, view, like, comment and vote on unmapped objectives within a forum
 
-![](img/unmapped.png)
+### Admin Guide and Functions
+This Guide shows an exclusive insight to the entended permissions that any Administator has within the site. 
+
+*Admin Users CRUD:* Allows those with Admin roles to create, update, and/or delete users, including their role permissions. 
+![](img/adminUsersCRUD.png)
+
+*Admin Courses CRUD:* Allows Admin to inspect, modify, create or delete courses as they see fit
+![](img/adminCoursesCRUD.png)
+
+*Admin Objectives CRUD:* Admin can choose to map objectives, reject objective requests, delete and/or update objectives.
+![](img/adminObjCRUD.png)
+
+*Admin Content CRUD:* Allows authenticated Admin to add, change, or delete any SRCH content.
+![](img/adminContentCRUD.png)
+![](img/adminContentCreate.png)
 
 ## Developer Guide
 
