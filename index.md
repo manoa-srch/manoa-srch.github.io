@@ -324,7 +324,7 @@ Future versions could include synchronization with an external SRCH database, al
 
 **Collaborative Curriculum Design**
 
-Allow for the ability to share information between instructors, allowing for one to implement course alignments and mappings already integrated with the SRCH (acting like a similar functionality of sharing a repository structure in GitHub).
+Allows for the ability to share information between instructors, allowing for one to implement course alignments and mappings already integrated with the SRCH (acting like a similar functionality of sharing a repository structure in GitHub).
 
 ## Conclusion
 
@@ -345,6 +345,4 @@ Manoa SRCH is designed, implemented, and maintained by [Jaimes Mexia-Santiago](h
 * [Manoa SRCH](https://srch-application-project-eight.vercel.app/)
 
 ## In-Progress Implementations to come:
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
 * [Example enhancements](#example-enhancements)
